@@ -3,7 +3,6 @@ import { DB_CONNECTION_FALIAR } from "../errors/serverlevelerros.js";
 
 
 // db uri
-// const DB_URI ="mongodb+srv://greenbloom6378:FyJUaSRznauFA6Fm@cluster0.k3omh.mongodb.net/greenbloom?retryWrites=true&w=majority";
 const DB_URI ="mongodb://0.0.0.0:27017/greenbloom"
 
 // connectDB function
